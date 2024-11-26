@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/darkwavestech" target="blank"><img src="https://img.shields.io/twitter/follow/darkwavestech?logo=twitter&style=for-the-badge" alt="darkwavestech" /></a> </p>
 
-- 🔭 I’m currently working on **SKILL SWAP**
+- 🔭 I’m currently working on **DAKIXART**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GRAFQL**
 
-- 👯 I’m looking to collaborate on **No error**
+- 👯 I’m looking to collaborate on **MAGNIMONT**
 
 - 📫 How to reach me **darkwavestech@gmail.com**
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/darkwavestech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkwavestech" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22770213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22770213" height="30" width="40" /></a>
 <a href="https://fb.com/darkwavesofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkwavesofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/darkwavestech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darkwavestech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@darkwavestech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darkwavestech" height="30" width="40" /></a>
 <a href="https://discord.gg/RxMtmRRKJp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RxMtmRRKJp" height="30" width="40" /></a>
 </p>
 
